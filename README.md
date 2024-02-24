@@ -1,4 +1,4 @@
-# image_similarity_BP
+# Image_Similarity_BP
 Image similarity technique for Brand Protection
 
 # Brand Protection with Image Similarity
